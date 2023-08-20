@@ -1,0 +1,15 @@
+.cover {
+  height: 5rem;
+}
+
+.header-titles-wrapper {
+  font-size: 3rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  justify-items: center;
+  margin-bottom: 4rem;
+}
+
+.header-titles:hover {
+  cursor: pointer;
+}

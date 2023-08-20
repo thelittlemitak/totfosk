@@ -1,0 +1,1 @@
+20/08/23: This is going to be my next project: a website called totfosk.com (domain already bought) with different sections related to the artist Tot Fosk (which is me) but also to music itself. For example, lists of my favorite albums or singles, comments sections, email subscriptions, store and many more. This is how the project started but I want to re-build it with NextJS.
